@@ -42,7 +42,7 @@ export default function HeroSection() {
           >
             <div className="relative w-64 h-64 md:w-80 md:h-80 overflow-hidden rounded-full border-4 border-blue-400">
               <Image
-                src="/placeholder.svg?height=400&width=400"
+                src="/4.jpg?height=400&width=400"
                 alt="Portrait du développeur"
                 fill
                 className="object-cover hover:scale-105 transition-transform duration-500"
